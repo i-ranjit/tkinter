@@ -43,3 +43,5 @@ class Main:
         
 
 d = Main()
+print("ranjit")
+print("kamal")
